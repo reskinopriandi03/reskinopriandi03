@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack frontend and backend engineer
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
 - 💞️ I’m looking to collaborate on everybody who want to collaborate together
-- 📫 How to reach me ...
+- 📫 How to reach me reskinopriandi@gmail.com or reskinopriandi03
 
 <!---
 reskinopriandi03/reskinopriandi03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
