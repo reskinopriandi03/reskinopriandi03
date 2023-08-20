@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @reskinopriandi03
-- 👀 I’m interested in fullstack frontend and backend engineer
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT
-- 💞️ I’m looking to collaborate on everybody who want to collaborate together
+- 👀 I’m interested in full-stack frontend and backend engineer
+- 👀 data scraping
+- 👀 data analyst
+- 💞️ I’m looking to collaborate with everybody who wants to collaborate together
 - 📫 How to reach me reskinopriandi@gmail.com or reskinopriandi03
 
 <!---
